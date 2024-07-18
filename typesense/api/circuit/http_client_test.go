@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/phiHero/typesense-go-ex/typesense/api/circuit/mocks"
+	"github.com/phiHero/typesense-go-ex/v2/typesense/api/circuit/mocks"
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/mock/gomock"
 )

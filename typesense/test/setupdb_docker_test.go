@@ -11,8 +11,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/phiHero/typesense-go-ex/typesense"
-	"github.com/phiHero/typesense-go-ex/typesense/api"
+	"github.com/phiHero/typesense-go-ex/v2/typesense"
+	"github.com/phiHero/typesense-go-ex/v2/typesense/api"
 	"github.com/testcontainers/testcontainers-go"
 	"github.com/testcontainers/testcontainers-go/wait"
 )

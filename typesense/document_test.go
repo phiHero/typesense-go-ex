@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/phiHero/typesense-go-ex/typesense/mocks"
+	"github.com/phiHero/typesense-go-ex/v2/typesense/mocks"
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/mock/gomock"
 )

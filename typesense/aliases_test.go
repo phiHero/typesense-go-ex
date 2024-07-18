@@ -6,11 +6,11 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/phiHero/typesense-go-ex/typesense/api/pointer"
+	"github.com/phiHero/typesense-go-ex/v2/typesense/api/pointer"
 
 	"github.com/jinzhu/copier"
-	"github.com/phiHero/typesense-go-ex/typesense/api"
-	"github.com/phiHero/typesense-go-ex/typesense/mocks"
+	"github.com/phiHero/typesense-go-ex/v2/typesense/api"
+	"github.com/phiHero/typesense-go-ex/v2/typesense/mocks"
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/mock/gomock"
 )

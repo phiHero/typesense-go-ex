@@ -15,7 +15,7 @@ import (
 	http "net/http"
 	reflect "reflect"
 
-	api "github.com/phiHero/typesense-go-ex/typesense/api"
+	api "github.com/phiHero/typesense-go-ex/v2/typesense/api"
 	gomock "go.uber.org/mock/gomock"
 )
 

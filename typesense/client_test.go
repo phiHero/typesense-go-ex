@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/phiHero/typesense-go-ex/typesense/api"
-	"github.com/phiHero/typesense-go-ex/typesense/api/circuit"
+	"github.com/phiHero/typesense-go-ex/v2/typesense/api"
+	"github.com/phiHero/typesense-go-ex/v2/typesense/api/circuit"
 	"github.com/sony/gobreaker"
 	"github.com/stretchr/testify/assert"
 )
