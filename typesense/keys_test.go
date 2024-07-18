@@ -7,12 +7,12 @@ import (
 	"testing"
 	"time"
 
-	"go.uber.org/mock/gomock"
 	"github.com/jinzhu/copier"
+	"github.com/phiHero/typesense-go-ex/typesense/api"
+	"github.com/phiHero/typesense-go-ex/typesense/api/pointer"
+	"github.com/phiHero/typesense-go-ex/typesense/mocks"
 	"github.com/stretchr/testify/assert"
-	"github.com/typesense/typesense-go/typesense/api"
-	"github.com/typesense/typesense-go/typesense/api/pointer"
-	"github.com/typesense/typesense-go/typesense/mocks"
+	"go.uber.org/mock/gomock"
 )
 
 func createNewKeySchema() *api.ApiKeySchema {

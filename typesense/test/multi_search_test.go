@@ -7,9 +7,9 @@ import (
 	"context"
 	"testing"
 
+	"github.com/phiHero/typesense-go-ex/typesense/api"
+	"github.com/phiHero/typesense-go-ex/typesense/api/pointer"
 	"github.com/stretchr/testify/require"
-	"github.com/typesense/typesense-go/typesense/api"
-	"github.com/typesense/typesense-go/typesense/api/pointer"
 )
 
 func TestMultiSearch(t *testing.T) {

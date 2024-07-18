@@ -1,4 +1,4 @@
-module github.com/typesense/typesense-go
+module github.com/phiHero/typesense-go-ex
 
 go 1.18
 

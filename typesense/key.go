@@ -3,7 +3,7 @@ package typesense
 import (
 	"context"
 
-	"github.com/typesense/typesense-go/typesense/api"
+	"github.com/phiHero/typesense-go-ex/typesense/api"
 )
 
 type KeyInterface interface {

@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"testing"
 
+	"github.com/phiHero/typesense-go-ex/typesense/api"
 	"github.com/stretchr/testify/assert"
-	"github.com/typesense/typesense-go/typesense/api"
 )
 
 func TestPresetsRetrieveAsSearchParameters(t *testing.T) {
