@@ -7,7 +7,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/phiHero/typesense-go-ex/typesense"
+	"github.com/phiHero/typesense-go-ex/v2/typesense"
 	"github.com/stretchr/testify/require"
 )
 

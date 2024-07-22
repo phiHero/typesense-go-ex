@@ -8,7 +8,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/phiHero/typesense-go-ex/typesense"
+	"github.com/phiHero/typesense-go-ex/v2/typesense"
 )
 
 var typesenseClient *typesense.Client

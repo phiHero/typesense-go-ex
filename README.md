@@ -19,7 +19,7 @@ go get github.com/typesense/typesense-go
 Import the the package into your code :
 
 ```go
-import "github.com/phiHero/typesense-go-ex/typesense"
+import "github.com/phiHero/typesense-go-ex/v2/typesense"
 ```
 
 Create new client:

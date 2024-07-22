@@ -3,7 +3,7 @@ package typesense
 import (
 	"context"
 
-	"github.com/phiHero/typesense-go-ex/typesense/api"
+	"github.com/phiHero/typesense-go-ex/v2/typesense/api"
 )
 
 // SynonymsInterface is a type for Search Synonyms API operations

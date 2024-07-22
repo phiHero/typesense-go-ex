@@ -7,8 +7,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/phiHero/typesense-go-ex/typesense/api"
-	"github.com/phiHero/typesense-go-ex/typesense/api/pointer"
+	"github.com/phiHero/typesense-go-ex/v2/typesense/api"
+	"github.com/phiHero/typesense-go-ex/v2/typesense/api/pointer"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
